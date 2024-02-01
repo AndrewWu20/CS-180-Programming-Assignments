@@ -1,0 +1,6 @@
+Seed: 22
+apple
+anger
+break
+while
+false
