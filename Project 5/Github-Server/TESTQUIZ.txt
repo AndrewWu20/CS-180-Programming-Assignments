@@ -1,0 +1,12 @@
+@THIS PROJECT IS SO GREAT!	20.0
+~True
+~False
+@IM HAVING FUN!	20.0
+~True
+~False
+@YAY!!!!	20.0
+~True
+~False
+@HAVE FUN!	20.0
+~True
+~False
